@@ -1,0 +1,13 @@
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\bin\Debug\net8.0\CleanArch.Infra.Bus.deps.json
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\bin\Debug\net8.0\CleanArch.Infra.Bus.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\bin\Debug\net8.0\CleanArch.Infra.Bus.pdb
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.AssemblyInfo.cs
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.sourcelink.json
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\refint\CleanArch.Infra.Bus.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.pdb
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\ref\CleanArch.Infra.Bus.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Infra.Bus\obj\Debug\net8.0\CleanArch.Infra.Bus.csproj.AssemblyReference.cache
