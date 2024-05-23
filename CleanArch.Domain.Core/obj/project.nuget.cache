@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1On6l2WsKwq8cT4SpkmqveheAGz0aoVZZTlUHU1IKtx1e/cAVUMplnwC21YAQJJIZ7n4HdF9JluaiKgw+tS8dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fozmen\\Desktop\\projects\\cleanarchitecture\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fozmen\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\fozmen\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\fozmen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\bin\Debug\net8.0\CleanArch.Domain.Core.deps.json
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\bin\Debug\net8.0\CleanArch.Domain.Core.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\bin\Debug\net8.0\CleanArch.Domain.Core.pdb
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.AssemblyInfo.cs
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.sourcelink.json
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\refint\CleanArch.Domain.Core.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\CleanArch.Domain.Core.pdb
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Domain.Core\obj\Debug\net8.0\ref\CleanArch.Domain.Core.dll
