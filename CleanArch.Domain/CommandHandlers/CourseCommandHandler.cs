@@ -14,7 +14,7 @@ namespace CleanArch.Domain.CommandHandlers
         }
         public Task<bool> Handle(CreateCourseCommand request, CancellationToken cancellationToken)
         {
-            var course = new Course() { Name = request.Name, Desctiption = request.Desctiption, ImageUrl = request.ImageUrl };
+            var course = new Course() { Name = request.Name, Description = request.Desctiption, ImageUrl = request.ImageUrl };
             _courseRepository.Add(course);
             return Task.FromResult(true);
         }
