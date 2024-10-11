@@ -29,3 +29,5 @@ C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Application\obj\Deb
 C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
 C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
 C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.Core.dll
+C:\Users\fozmen\Desktop\projects\cleanarchitecture\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.Core.pdb

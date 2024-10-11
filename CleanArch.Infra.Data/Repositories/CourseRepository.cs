@@ -16,16 +16,18 @@ namespace CleanArch.Infra.Data.Repositories
         public void Add(Course course)
         {
             _context.Courses.Add(course);
+            _context.SaveChanges();
         }
 
-        public IEnumerable<Course> GetCourses()
+        public IQueryable<Course> GetCourses()
         {
-           return _context.Courses.AsEnumerable();
+           return _context.Courses;
         }
 
         public void Update(Course course)
         {
             _context.Courses.Update(course);
+            _context.SaveChanges();
         }
     }
 }

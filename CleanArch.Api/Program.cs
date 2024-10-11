@@ -1,4 +1,5 @@
 using CleanArch.Api.Middlewares;
+using CleanArch.Application.AutoMapper;
 using CleanArch.Infra.Data.Context;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +20,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo() { Version = "v1", Title="University Api" });
 });
+
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
 
 RegisterServices.Register(builder.Services);
